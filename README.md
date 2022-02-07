@@ -3,6 +3,8 @@ Projeto QGIS Monitor de Secas
 
 Em apoio à operacionalização do Monitor de Secas, objetiva-se automatizar a criação do projeto QGIS e das figuras de apoio para o traçado do mapa de seca pelos autores, tornando o processo mais ágil, simples e consistente.
 
+![alt text](https://github.com/dxbezerra/drough-monitoring-tools/blob/main/MS_fluxograma.png)
+
 Instalação
 ----------------------
 
